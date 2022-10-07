@@ -10,7 +10,7 @@ body {
 }
 
 form {
-    background-color: #787878;
+    background-color: #B8B8B8;
     display: inline-block;
 }
 
@@ -29,7 +29,7 @@ p, h1, ol, label, input, #content {
 
 #age-verification {
     box-sizing: border-box;
-    width: 15%;
+    width: 50%;
 }
 
     p, h1, ol, label, input, #content {
