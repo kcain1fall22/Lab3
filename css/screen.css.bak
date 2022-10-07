@@ -15,9 +15,11 @@ form {
 }
 
 input {
-	height: 50px;
-	margin-bottom: 10px;
-	font-family: 'Inter', sans-serif;
+		height: 50px;
+		margin-bottom: 10px;
+		font-family: 'Inter', sans-serif;
+
+	}
     box-sizing: border-box;
     width: 85%;
 }
