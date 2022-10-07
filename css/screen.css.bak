@@ -17,10 +17,8 @@ input {
 		height: 50px;
 		margin-bottom: 10px;
 		font-family: 'Inter', sans-serif;
-
-	}
-    box-sizing: border-box;
-    width: 85%;
+        box-sizing: border-box;
+        width: 85%;
 }
 
 p, h1, ol, label, input, #content {
