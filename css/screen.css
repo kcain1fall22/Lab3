@@ -48,15 +48,5 @@ p, h1, ol, label, input, #content {
 		margin-bottom:10px;
 	}
 	
-	@media screen and (max-width: 480px){
-	label {
-		display: inline-block;
-		color: black;
-		background: #787878;
-		margin-right: 15px;
-		margin-left: 20px;
-		font-size: 1.5em;
-		height: 5px;
-		padding: 20px 50px;
-		margin-bottom:10px;
-	}
+   }
+   
